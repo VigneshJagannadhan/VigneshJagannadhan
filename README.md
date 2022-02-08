@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @VigneshJagannadhan
-- 👀 Flutter Development Intern at Mindster.
+- 👀 Flutter Development Trainee at Mindster.
 - 🌱 I’m currently developing my skills in flutter and learning emerging technologies.
 - 💞️ I’m looking for a startup which helps me grow and develop my abilities and also reach my goals!
 - 📫 To reach me, just email me on vigneshjagannadhan1998@gmail.com.
