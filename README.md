@@ -53,7 +53,7 @@ Feel free to explore my GitHub repository for more projects and examples of my w
  - Member - Google Cloud Community, Kochi
 
 ## Contact Me
-I am open to new opportunities and collaborations. Please feel free to contact me via email at vigneshjagannadhan1998@dmail.com.
+I am open to new opportunities and collaborations. Please feel free to contact me via email at vigneshjagannadhan1998@gmail.com.
 
 Connect with me on LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/vignesh-jagannadhan/)
 
