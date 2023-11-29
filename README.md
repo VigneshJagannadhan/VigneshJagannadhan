@@ -37,7 +37,9 @@ Here are some noteworthy projects I have worked on:
 
 2. **Project 2:** Official Website for Galeo Pharma([link](https://galeopharma.com/)): Co-Developed new Website for GaleoPharma.
 
-3. **Project 2:** Official Website for Aag India Pvt Ltd([link](https://aagindiapvtltd.in/)): Co-Developed new Website for Aag India Pvt Ltd.
+3. **Project 3:** Official Website for Aag India Pvt Ltd([link](https://aagindiapvtltd.in/)): Co-Developed new Website for Aag India Pvt Ltd.
+
+3. **Project 4:** Instagram Clone ([link]([https://aagindiapvtltd.in/](https://github.com/VigneshJagannadhan/instagram_clone))): Developed using flutter.
 
 Feel free to explore my GitHub repository for more projects and examples of my work.
 
