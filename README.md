@@ -1,12 +1,12 @@
 # Hello, I'm Vignesh 👋
 
 ## About Me
-I am a Flutter developer with 1.5+ years of experience creating high-performing and visually stunning mobile apps. Strong knowledge of Dart, Firebase, and third-party libraries. Experience with publishing apps on Appstore and Playstore. Proven ability to work on both iOS and Android platforms and stay current with the latest trends in mobile app development. Strong collaborator, able to work well with developers, designers, and stakeholders.
+I am a Flutter developer with 2+ years of experience creating high-performing and visually stunning mobile apps. Strong knowledge of Dart, Firebase, and third-party libraries. Experience with publishing apps on Appstore and Playstore. Proven ability to work on both iOS and Android platforms and stay current with the latest trends in mobile app development. Strong collaborator, able to work well with developers, designers, and stakeholders.
 
 ## Experience
 Flutter Developer
  - Stunntech · Full-time
- - Jun 2022 - Present · 1 yr 5 mos
+ - Jun 2022 - Present · 2 yr 1 mos
  - Kochi, Kerala, India
   Skills: Flutter · Dart · Mobile Application Development
 
@@ -33,13 +33,17 @@ Flutter Development Intern
 ## Projects
 Here are some noteworthy projects I have worked on:
 
-1. **Project 1:** Official Website for Asset mentor([link](https://assetmentor.in/)): Co-Developing new Website for Asset Mentor.
+1. **Project 1:** Trippify ([link](https://github.com/VigneshJagannadhan/Trippify)))
 
-2. **Project 2:** Official Website for Galeo Pharma([link](https://galeopharma.com/)): Co-Developed new Website for GaleoPharma.
+2. **Project 2:** Instagram Clone ([link](https://github.com/VigneshJagannadhan/instagram_clone)))
 
-3. **Project 3:** Official Website for Aag India Pvt Ltd([link](https://aagindiapvtltd.in/)): Co-Developed new Website for Aag India Pvt Ltd.
+3. **Project 3:** Official Website for Asset mentor([link](https://assetmentor.in/))
 
-3. **Project 4:** Instagram Clone ([link](https://github.com/VigneshJagannadhan/instagram_clone))): Developed using flutter.
+4. **Project 4:** Official Website for Galeo Pharma([link](https://galeopharma.com/))
+   
+5. **Project 5:** Official Website for Aag India Pvt Ltd([link](https://aagindiapvtltd.in/))
+
+
 
 Feel free to explore my GitHub repository for more projects and examples of my work.
 
