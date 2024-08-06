@@ -35,13 +35,15 @@ Here are some noteworthy projects I have worked on:
 
 1. **Project 1:** Trippify ([link](https://github.com/VigneshJagannadhan/Trippify)))
 
-2. **Project 2:** Instagram Clone ([link](https://github.com/VigneshJagannadhan/instagram_clone)))
+2. **Project 2:** CineVibe Mobile App ([link](https://github.com/VigneshJagannadhan/CineVibe-Mobile-App)))
 
-3. **Project 3:** Official Website for Asset mentor([link](https://assetmentor.in/))
+3. **Project 3:** Instagram Clone ([link](https://github.com/VigneshJagannadhan/instagram_clone)))
 
-4. **Project 4:** Official Website for Galeo Pharma([link](https://galeopharma.com/))
+4. **Project 4:** Official Website for Asset mentor([link](https://assetmentor.in/))
+
+5. **Project 5:** Official Website for Galeo Pharma([link](https://galeopharma.com/))
    
-5. **Project 5:** Official Website for Aag India Pvt Ltd([link](https://aagindiapvtltd.in/))
+6. **Project 6:** Official Website for Aag India Pvt Ltd([link](https://aagindiapvtltd.in/))
 
 
 
