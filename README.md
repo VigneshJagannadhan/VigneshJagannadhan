@@ -1,67 +1,101 @@
-# Hello, I'm Vignesh 👋
+# 👋 Hello, I'm Vignesh K
 
-## About Me
+## 🚀 About Me
+Flutter developer with **3+ years of experience** building scalable, cross-platform mobile applications for international clients.  
+I specialize in architecting robust solutions using **Flutter, Node.js, and Firebase**, with a focus on **performance, reliability, and seamless integrations**.  
 
-Flutter developer with 2+ years of experience creating high-performing and visually stunning mobile apps. Strong knowledge of Dart, Firebase, and third-party libraries. Proven ability to work on both iOS and Android platforms and stay current with the latest trends in mobile app development. Strong collaborator, able to work well with developers, designers, and stakeholders. 
+Proven track record of delivering **production-ready apps** on the **App Store** and **Play Store**, mentoring developers, and implementing advanced features such as **real-time chat, live location tracking, secure payments, and in-app purchases**.
 
-## Experience
+---
 
-Flutter Developer - Stunntech Innovations
-- Led Major Project Completion: Successfully led and completed a significant multi-phase project as the inaugural member of the Flutter Department, collaborating with a freelance developer, and delivering the project after over two years of  development.
-- Delivered Multiple Client Projects: Developed and published three diverse mobile applications for international clients on both the App Store and Play Store. Currently working on two more projects.
-- Mentorship and Team Development: Trained and mentored an intern who has since become a full-time Junior Flutter developer at Stunntech.
-- Client Collaboration: Proactively stepped up to work with clients when necessary, ensuring successful project outcomes and addressing client needs effectively.
+## 💼 Experience
 
-Junior Software Consultant (Flutter) - Mindster
-- Completed a 1-month Flutter internship, followed by a 3-month role as a Junior Software Consultant.
-- Contributed to development and resolved bugs across multiple projects, enhancing app functionality and user experience.
+### **Flutter Developer — Stunntech Innovations Pvt Ltd**  
+📅 *June 2022 – Present*  
 
-## Skills
-- State Management - Provider, GetX, Bloc, Riverpod
-- Firebase - Firebase Auth, Firebase Messaging, Firebase Cloud Firestore
-- Analytics - Firebase Crashlytics, Bugsnag, AppsFlyer
-- Version Control - Git
-- Payment - Stripe
-- Flutter Version Management
-- Custom Painter, Flutter PDF Generation , Biometric Authentication
-- Google Maps, Google Places API, Gemini API
+- Joined as the **first Flutter team member** with less than 6 months of experience and grew into a lead developer role.  
+- **Spearheaded 5+ production-grade mobile apps** published for international clients on both App Store and Play Store.  
+- **Led two large-scale projects** (1.5+ years each) and delivered **three additional mid-scale apps**, all deployed globally.  
+- Implemented advanced features: **live location tracking, PDF signing, in-app chat (with push notifications)**, and **secure payments (Stripe, PhonePe, in-app purchases)** — *without paid SDKs*.  
+- **Mentored** and trained a fresher into a full-time Flutter developer capable of end-to-end project handling.  
 
+### **Junior Software Consultant (Flutter) — Mindster**  
+📅 *Mar 2021 – Jun 2021*  
 
-## Projects
-Here are some noteworthy personal projects I have worked on.:
+- Completed a 1-month internship and transitioned into a 3-month consulting role.  
+- Contributed to feature development, bug fixing, and UI enhancements across multiple client apps.  
 
-1. **Project 1:** Trippify ([link](https://github.com/VigneshJagannadhan/Trippify)))
-   - Developed a feature-rich travel application using Flutter and Firebase with an emphasis on intuitive UI/UX design for enhanced user experience.
-   - Enabled users to create and join trips, automatically adding them to a dedicated chatroom for trip discussions.
+---
 
-2. **Project 2:** CineVibe Mobile App ([link](https://github.com/VigneshJagannadhan/CineVibe-Mobile-App)))
-   - Developed Cinevibe, a personal project for movie and series reviews, allowing users to rate, review, and engage in discussions.
-   - Integrated user registration, a movie search feature, and a request system for adding new titles to the platform.
-   - Designed flexible profile settings, enabling users to display either real names or chosen usernames.
+## 💻 Personal Projects
 
+### **Trippify — Travel Companion App**  
+[🔗 GitHub Repository](https://github.com/VigneshJagannadhan/Trippify)  
+- Built using **Flutter, Node.js, and Firebase**.  
+- Users can **create/join trips**, automatically joining chatrooms for trip discussions.  
+- Includes **profile management** and upcoming **AI-powered suggestions**.  
 
-Feel free to explore my GitHub repository for more projects and examples of my work.
+### **MusicMix — Free Music Player App**  
+[🔗 GitHub Repository](https://github.com/VigneshJagannadhan/MusicMix)  
+- Developed using **Flutter and Firebase**.  
+- Features **music upload/playback**, **community threads**, and **interactive discussions**.  
 
-## PUBLICATIONS
- - Why you should use Flutter for your business applications! ([link](https://medium.com/@vigneshjagannadhan1998/why-you-should-use-flutter-for-your-business-applications-305976920bca)))
- - Exploring the Intersection of AI and Flutter: Empowering Mobile Development with Intelligent Solutions ([link](https://medium.com/@vigneshjagannadhan1998/exploring-the-intersection-of-ai-and-flutter-empowering-mobile-development-with-intelligent-0fb0f25d57e7)))
- - How to build your very own AI chat application using Gemini and Flutter ([link]([https://medium.com/@vigneshjagannadhan1998/why-you-should-use-flutter-for-your-business-applications-305976920bca](https://medium.com/@vigneshjagannadhan1998/how-to-build-your-very-own-ai-chat-application-using-gemini-and-flutter-8c744d7fe2dd))))
+### **CineVibe — Movie & Series Review Platform**  
+[🔗 GitHub Repository](https://github.com/VigneshJagannadhan/CineVibe-Mobile-App)  
+- Personal app for **movie and series reviews**, including user ratings and discussion threads.  
+- Integrated **authentication, movie search, and title request system**.  
 
-## CERTIFICATIONS
- - Flutter & Dart - The Complete Guide [2021 Edition] - Academind by Maximilian Schwarzmüller
- - Responsive Website Basics: Code with HTML, CSS, and JavaScript - University of London
- - Crash Course on Python - Google
- - Doing more with Google Sheets - Google Cloud
+---
 
-## COMMUNITIES
- - Member - Google Developer Group, Kochi
- - Member - Google Developer Group, Kozhikode
- - Member - Google Cloud Community, Kochi
+## ✍️ Publications
 
-## Contact Me
-I am open to new opportunities and collaborations. Please feel free to contact me via email at vigneshjagannadhan1998@gmail.com.
+- [Why You Should Use Flutter for Your Business Applications!](https://medium.com/@vigneshjagannadhan1998/why-you-should-use-flutter-for-your-business-applications-305976920bca)  
+- [Exploring the Intersection of AI and Flutter: Empowering Mobile Development](https://medium.com/@vigneshjagannadhan1998/exploring-the-intersection-of-ai-and-flutter-empowering-mobile-development-with-intelligent-0fb0f25d57e7)  
+- [How to Build Your Very Own AI Chat App Using Gemini and Flutter](https://medium.com/@vigneshjagannadhan1998/how-to-build-your-very-own-ai-chat-application-using-gemini-and-flutter-8c744d7fe2dd)  
 
-Connect with me on LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/vignesh-jagannadhan/)
+---
 
-## Let's Connect and Create Amazing Flutter Apps!
-I am passionate about Flutter development and always eager to learn and grow in this field. If you have any ideas, or suggestions, or would like to discuss potential projects, please don't hesitate to reach out. Let's connect and together build outstanding mobile applications with Flutter!
+## 🛠️ Skills
+
+**Languages & Frameworks:**  
+Flutter • Dart • Node.js • JavaScript • HTML/CSS  
+
+**State Management:**  
+Provider • GetX • BLoC  
+
+**Backend & APIs:**  
+Firebase (Auth, Firestore, Cloud Storage, Cloud Messaging) • REST APIs • Deep Linking • Push Notifications • SQFlite • Git  
+
+**Integrations & Tools:**  
+Stripe • PhonePe • Google Maps • Custom Painter • Firebase Crashlytics • Bugsnag • AppsFlyer • In-App Purchases  
+
+---
+
+## 🎓 Certifications
+
+- **Flutter & Dart – The Complete Guide (2021 Edition)** – Academind by Maximilian Schwarzmüller  
+- **Responsive Website Basics** – University of London  
+- **Crash Course on Python** – Google  
+- **Doing More with Google Sheets** – Google Cloud  
+
+---
+
+## 🌐 Communities
+
+- Member – **Google Developer Group, Kochi**  
+- Member – **Google Developer Group, Kozhikode**  
+- Member – **Google Cloud Community, Kochi**  
+
+---
+
+## 📫 Contact Me
+
+📧 **vigneshjagannadhan1998@gmail.com**  
+📱 **+91 8547411716**  
+🔗 [**LinkedIn**](https://www.linkedin.com/in/vignesh-jagannadhan/) | [**GitHub**](https://github.com/VigneshJagannadhan)
+
+---
+
+## 💡 Let’s Build Something Amazing
+I’m passionate about creating impactful mobile solutions that blend design, technology, and usability.  
+If you’re working on something exciting or need a skilled Flutter developer — **let’s connect and build it together!**
