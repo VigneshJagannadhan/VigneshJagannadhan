@@ -13,7 +13,7 @@ Proven track record of delivering **production-ready apps** on the **App Store**
 ### **Flutter Developer — Stunntech Innovations Pvt Ltd**  
 📅 *June 2022 – Present*  
 
-- Joined as the **first Flutter team member** with less than 6 months of experience and grew into a lead developer role.  
+- Joined as the **first Flutter team member**.  
 - **Spearheaded 5+ production-grade mobile apps** published for international clients on both App Store and Play Store.  
 - **Led two large-scale projects** (1.5+ years each) and delivered **three additional mid-scale apps**, all deployed globally.  
 - Implemented advanced features: **live location tracking, PDF signing, in-app chat (with push notifications)**, and **secure payments (Stripe, PhonePe, in-app purchases)** — *without paid SDKs*.  
@@ -33,11 +33,6 @@ Proven track record of delivering **production-ready apps** on the **App Store**
 [🔗 GitHub Repository](https://github.com/VigneshJagannadhan/MusicMix)  
 - Developed using **Flutter and Firebase**.  
 - Features **music upload/playback**, **community threads**, and **interactive discussions**.  
-
-### **CineVibe — Movie & Series Review Platform**  
-[🔗 GitHub Repository](https://github.com/VigneshJagannadhan/CineVibe-Mobile-App)  
-- Personal app for **movie and series reviews**, including user ratings and discussion threads.  
-- Integrated **authentication, movie search, and title request system**.  
 
 ---
 
@@ -66,7 +61,7 @@ Stripe • PhonePe • Google Maps • Custom Painter • Firebase Crashlytics �
 ---
 
 ## 🎓 Certifications
-
+- **Foundations of Cybersecurity** - Google
 - **Flutter & Dart – The Complete Guide (2021 Edition)** – Academind by Maximilian Schwarzmüller  
 - **Responsive Website Basics** – University of London  
 - **Crash Course on Python** – Google  
