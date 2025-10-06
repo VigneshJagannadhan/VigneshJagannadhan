@@ -19,12 +19,6 @@ Proven track record of delivering **production-ready apps** on the **App Store**
 - Implemented advanced features: **live location tracking, PDF signing, in-app chat (with push notifications)**, and **secure payments (Stripe, PhonePe, in-app purchases)** — *without paid SDKs*.  
 - **Mentored** and trained a fresher into a full-time Flutter developer capable of end-to-end project handling.  
 
-### **Junior Software Consultant (Flutter) — Mindster**  
-📅 *Mar 2021 – Jun 2021*  
-
-- Completed a 1-month internship and transitioned into a 3-month consulting role.  
-- Contributed to feature development, bug fixing, and UI enhancements across multiple client apps.  
-
 ---
 
 ## 💻 Personal Projects
