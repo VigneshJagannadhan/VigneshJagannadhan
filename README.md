@@ -24,16 +24,10 @@ Proven track record of delivering **production-ready apps** on the **App Store**
 ## 💻 Personal Projects
 
 ### **Trippify — Travel Companion App**  
-[🔗 GitHub Repository](https://github.com/VigneshJagannadhan/Trippify)  
+[🔗 GitHub Repository](https://github.com/VigneshJagannadhan/trip-management-app)  
 - Built using **Flutter, Node.js, and Firebase**.  
 - Users can **create/join trips**, automatically joining chatrooms for trip discussions.  
 - Includes **profile management** and upcoming **AI-powered suggestions**.  
-
-### **MusicMix — Free Music Player App**  
-[🔗 GitHub Repository](https://github.com/VigneshJagannadhan/MusicMix)  
-- Developed using **Flutter and Firebase**.  
-- Features **music upload/playback**, **community threads**, and **interactive discussions**.  
-
 ---
 
 ## ✍️ Publications
